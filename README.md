@@ -18,8 +18,8 @@ The project uses the [Home Credit Default Risk](https://www.kaggle.com/c/home-cr
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/home-credit-default-risk.git
-cd home-credit-default-risk
+git clone [https://github.com/<your-username>/home-credit-default-risk.git](https://github.com/marko1684/ip2.git)
+cd ip2
 ```
 
 ### 2. Download the data
