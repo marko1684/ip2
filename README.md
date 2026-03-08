@@ -18,7 +18,7 @@ The project uses the [Home Credit Default Risk](https://www.kaggle.com/c/home-cr
 ### 1. Clone the repo
 
 ```bash
-git clone [https://github.com/<your-username>/home-credit-default-risk.git](https://github.com/marko1684/ip2.git)
+git clone https://github.com/marko1684/ip2.git
 cd ip2
 ```
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ### 5. Run the notebooks
 
-Open the notebooks in order (`01` → `04`) using Jupyter or VS Code:
+Open the notebooks in order (`simple` → `advanced` → `clustering/boosting` → `hyperparameter tuning`) using Jupyter or VS Code:
 
 ```bash
 jupyter notebook
