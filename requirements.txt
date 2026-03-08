@@ -1,0 +1,22 @@
+# Home Credit Default Risk - Requirements
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Model serialization
+joblib>=1.2.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Advanced ML libraries (used in notebooks 03 and 04)
+xgboost>=1.7.0
+lightgbm>=3.3.0
